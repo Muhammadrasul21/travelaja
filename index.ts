@@ -40,7 +40,7 @@
 }
 
 {
-    // masala
+    // 3 masala
     class Circle {
         constructor(public radius: number) {}
     
@@ -56,7 +56,7 @@
 
 {
 
-    // masala
+    // 4 masala
     class Product {
         constructor(public name: string, public price: number) {}
     
